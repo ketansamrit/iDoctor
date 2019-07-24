@@ -1,0 +1,2 @@
+# iDoctor
+Simple Disease Prediction
